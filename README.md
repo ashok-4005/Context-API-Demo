@@ -1,12 +1,17 @@
-# React + Vite
+# Context API in REACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a small project titled "User Preferences Dashboard" that manages theme (light/dark) and user login state using React's Context API. 
 
-Currently, two official plugins are available:
+Two separate contexts were created — ThemeContext for theme management and UserContext for handling login status. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The app includes a simple login/logout feature, where the authentication state is maintained in context and shared across components. 
 
-## Expanding the ESLint configuration
+The entire application is wrapped in both context providers to ensure global access to user and theme data.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# #REACT #CONTEXT_API
+
+Output Screehshot
+
+![]()
+
+![]()

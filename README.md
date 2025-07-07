@@ -1,4 +1,4 @@
-# Context API in REACT
+# React Context API
 
 Developed a small project titled "User Preferences Dashboard" that manages theme (light/dark) and user login state using React's Context API. 
 
@@ -12,6 +12,6 @@ The entire application is wrapped in both context providers to ensure global acc
 
 Output Screehshot
 
-![]()
+![](ss1.png)
 
-![]()
+![](ss2.png)
